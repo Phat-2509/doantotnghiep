@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1772718207.66925 "d:/totnghiep/Document/doantotnghiep/LATEX/doantotnghiep/doantotnghiep/main.tex" "main.pdf" "main" 1772718210.4296 0
+["pdflatex"] 1773120630.10113 "d:/totnghiep/Document/doantotnghiep/LATEX/doantotnghiep/doantotnghiep/main.tex" "main.pdf" "main" 1773120633.87822 0
   "C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1765221157 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1765216555 14064 c4c8134ebc574f35c4cb501187c02c79 ""
   "C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1765216550 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -245,7 +245,7 @@
   "C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "d:/totnghiep/Document/doantotnghiep/LATEX/doantotnghiep/doantotnghiep/main.tex" 1772718206 103854 c10f60c6eb5f59a61c3e50e2ebcebf64 ""
+  "d:/totnghiep/Document/doantotnghiep/LATEX/doantotnghiep/doantotnghiep/main.tex" 1773120629 106546 a302b057a14a2fa3719105307e5515d1 ""
   "image/chi tiet quy trinh/p&id feeding.png" 1765627228 50182 1ec930c215a2c9b0c2774a65dc89e2d1 ""
   "image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg" 1765627228 68486 f26615102e73bb6ea444a19093b05343 ""
   "image/danh gia xuc tac/TGA_diagram_3.png" 1765627228 77121 28d4e227d8bb6304f4af284d7b1ab0f7 ""
@@ -269,12 +269,12 @@
   "image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png" 1765627228 33666 9165b5660b41914b835eb7951557375a ""
   "image/tong quan/ung dung acetone.png" 1765627228 10972 ad51f8656459228b8febc0325f87faba ""
   "image/trang bia/01_logobachkhoasang.png" 1765627228 56581 5fccf1b2c810badc2465219984b028cd ""
-  "main.aux" 1772718210 8959 caa2d5747594310ed8295306eec5d715 "pdflatex"
-  "main.lof" 1772718210 2803 9cfc1b1996253fbf383f3eaf0b8e4e68 "pdflatex"
-  "main.lot" 1772718210 1821 80698838ccf5c968dbab5101a94280af "pdflatex"
-  "main.out" 1772718210 2627 efc50881306e1dddf5bf95efb4aed5c9 "pdflatex"
-  "main.tex" 1772718206 103854 c10f60c6eb5f59a61c3e50e2ebcebf64 ""
-  "main.toc" 1772718210 1553 50820588142a96c1eb45fe4b89329195 "pdflatex"
+  "main.aux" 1773120633 9276 1e17230c2ff59108c04635e8c98c4226 "pdflatex"
+  "main.lof" 1773120633 2803 2aad42f70ecbd9fecb6ff7a73de3b720 "pdflatex"
+  "main.lot" 1773120633 1821 48cdc199a9c2d6ebe64e2a57a4982cb3 "pdflatex"
+  "main.out" 1773120633 3147 b79ca32da65cef1820a0ff4d4a203348 "pdflatex"
+  "main.tex" 1773120629 106546 a302b057a14a2fa3719105307e5515d1 ""
+  "main.toc" 1773120633 1788 174e6e09e57fd6dc21971c399f0178d2 "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
