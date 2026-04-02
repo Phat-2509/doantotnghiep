@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.9)  12 FEB 2026 23:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.9)  10 MAR 2026 12:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -852,7 +852,7 @@ Package caption Info: End \AtBeginDocument code.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 
-<image/trang bia/01_logobachkhoasang.png, id=102, 845.0772pt x 597.6729pt>
+<image/trang bia/01_logobachkhoasang.png, id=74, 845.0772pt x 597.6729pt>
 File: image/trang bia/01_logobachkhoasang.png Graphic file (type png)
 <use image/trang bia/01_logobachkhoasang.png>
 Package pdftex.def Info: image/trang bia/01_logobachkhoasang.png  used on input line 97.
@@ -973,201 +973,166 @@ l.260     \item K
 
 
 ] [5]
-<image/tong quan/ctct acetone.jpg, id=270, 2055.68pt x 2055.68pt>
+<image/tong quan/ctct acetone.jpg, id=216, 2055.68pt x 2055.68pt>
 File: image/tong quan/ctct acetone.jpg Graphic file (type jpg)
 <use image/tong quan/ctct acetone.jpg>
 Package pdftex.def Info: image/tong quan/ctct acetone.jpg  used on input line 330.
 (pdftex.def)             Requested size: 128.00917pt x 128.00917pt.
  [6]
-<image/tong quan/ung dung acetone.png, id=276, 225.84375pt x 225.84375pt>
+<image/tong quan/ung dung acetone.png, id=222, 225.84375pt x 225.84375pt>
 File: image/tong quan/ung dung acetone.png Graphic file (type png)
 <use image/tong quan/ung dung acetone.png>
 Package pdftex.def Info: image/tong quan/ung dung acetone.png  used on input line 336.
 (pdftex.def)             Requested size: 163.61362pt x 163.61362pt.
  [7 <./image/tong quan/ctct acetone.jpg> <./image/tong quan/ung dung acetone.png>] [8]
-<image/tong quan/cau truc koms2.png, id=287, 501.875pt x 325.215pt>
+<image/tong quan/cau truc koms2.png, id=233, 501.875pt x 325.215pt>
 File: image/tong quan/cau truc koms2.png Graphic file (type png)
 <use image/tong quan/cau truc koms2.png>
 Package pdftex.def Info: image/tong quan/cau truc koms2.png  used on input line 378.
 (pdftex.def)             Requested size: 227.62596pt x 170.72058pt.
  [9]
-<image/tong quan/cau truc bien tinh oms-2.png, id=293, 184.43906pt x 147.55125pt>
+<image/tong quan/cau truc bien tinh oms-2.png, id=239, 184.43906pt x 147.55125pt>
 File: image/tong quan/cau truc bien tinh oms-2.png Graphic file (type png)
 <use image/tong quan/cau truc bien tinh oms-2.png>
 Package pdftex.def Info: image/tong quan/cau truc bien tinh oms-2.png  used on input line 384.
 (pdftex.def)             Requested size: 227.62135pt x 170.72052pt.
  [10 <./image/tong quan/cau truc koms2.png> <./image/tong quan/cau truc bien tinh oms-2.png>]
-<image/tong quan/catalysisscheme.png, id=300, 245.718pt x 144.54pt>
+<image/tong quan/catalysisscheme.png, id=246, 245.718pt x 144.54pt>
 File: image/tong quan/catalysisscheme.png Graphic file (type png)
 <use image/tong quan/catalysisscheme.png>
-Package pdftex.def Info: image/tong quan/catalysisscheme.png  used on input line 396.
+Package pdftex.def Info: image/tong quan/catalysisscheme.png  used on input line 401.
 (pdftex.def)             Requested size: 307.14673pt x 180.67453pt.
-<image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png, id=302, 360.34625pt x 304.13625pt>
+<image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png, id=248, 360.34625pt x 304.13625pt>
 File: image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png Graphic file (type png)
 <use image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png>
-Package pdftex.def Info: image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png  used on input line 404.
+Package pdftex.def Info: image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png  used on input line 409.
 (pdftex.def)             Requested size: 360.34537pt x 304.1355pt.
  [11 <./image/tong quan/catalysisscheme.png>] [12 <./image/tong quan/ndividual-steps-of-a-simple-heterogeneous-catalytic-fluid-solid-reaction-A-1-A-2.png (PNG copy)>]
-<image/tong quan/mo ta qua trinh hap phu.jpg, id=320, 602.25pt x 440.64626pt>
+<image/tong quan/mo ta qua trinh hap phu.jpg, id=266, 602.25pt x 440.64626pt>
 File: image/tong quan/mo ta qua trinh hap phu.jpg Graphic file (type jpg)
 <use image/tong quan/mo ta qua trinh hap phu.jpg>
-Package pdftex.def Info: image/tong quan/mo ta qua trinh hap phu.jpg  used on input line 433.
+Package pdftex.def Info: image/tong quan/mo ta qua trinh hap phu.jpg  used on input line 438.
 (pdftex.def)             Requested size: 364.19667pt x 266.48087pt.
- [13]
-<image/tong quan/cau tao chitosan.png, id=325, 3081.5125pt x 1857.94125pt>
-File: image/tong quan/cau tao chitosan.png Graphic file (type png)
-<use image/tong quan/cau tao chitosan.png>
-Package pdftex.def Info: image/tong quan/cau tao chitosan.png  used on input line 449.
-(pdftex.def)             Requested size: 227.57697pt x 170.69453pt.
- [14 <./image/tong quan/mo ta qua trinh hap phu.jpg> <./image/tong quan/cau tao chitosan.png (PNG copy)>]
-<image/tong quan/cau truc cua cellulose.png, id=331, 1927.2pt x 892.33376pt>
-File: image/tong quan/cau truc cua cellulose.png Graphic file (type png)
-<use image/tong quan/cau truc cua cellulose.png>
-Package pdftex.def Info: image/tong quan/cau truc cua cellulose.png  used on input line 462.
-(pdftex.def)             Requested size: 341.41139pt x 170.71614pt.
- [15 <./image/tong quan/cau truc cua cellulose.png>]
-Overfull \hbox (2.93333pt too wide) in paragraph at lines 485--485
- []|$\OML/cmm/m/it/12 Cu\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 NO[]\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 H[]O$| 
- []
-
-<image/mo ta quy trinh/quy trinh tong hop cu-oms-2.jpg, id=337, 663.47874pt x 652.4375pt>
-File: image/mo ta quy trinh/quy trinh tong hop cu-oms-2.jpg Graphic file (type jpg)
-<use image/mo ta quy trinh/quy trinh tong hop cu-oms-2.jpg>
-Package pdftex.def Info: image/mo ta quy trinh/quy trinh tong hop cu-oms-2.jpg  used on input line 497.
-(pdftex.def)             Requested size: 398.0903pt x 391.46552pt.
-[16] [17 <./image/mo ta quy trinh/quy trinh tong hop cu-oms-2.jpg>]
-<image/mo ta quy trinh/quy trinh tong hop MCC.jpg, id=346, 466.74374pt x 510.90875pt>
-File: image/mo ta quy trinh/quy trinh tong hop MCC.jpg Graphic file (type jpg)
-<use image/mo ta quy trinh/quy trinh tong hop MCC.jpg>
-Package pdftex.def Info: image/mo ta quy trinh/quy trinh tong hop MCC.jpg  used on input line 525.
-(pdftex.def)             Requested size: 420.06549pt x 459.81363pt.
- [18] [19 <./image/mo ta quy trinh/quy trinh tong hop MCC.jpg>]
-<image/mo ta quy trinh/quy trinh tong hop mang chitosan bien tinh Cu-OMS2.jpg, id=355, 754.82pt x 598.235pt>
-File: image/mo ta quy trinh/quy trinh tong hop mang chitosan bien tinh Cu-OMS2.jpg Graphic file (type jpg)
-<use image/mo ta quy trinh/quy trinh tong hop mang chitosan bien tinh Cu-OMS2.jpg>
-Package pdftex.def Info: image/mo ta quy trinh/quy trinh tong hop mang chitosan bien tinh Cu-OMS2.jpg  used on input line 555.
-(pdftex.def)             Requested size: 377.40909pt x 299.11676pt.
- [20 <./image/mo ta quy trinh/quy trinh tong hop mang chitosan bien tinh Cu-OMS2.jpg>] [21] [22] [23]
-<image/danh gia xuc tac/duong chuan.png, id=377, 774.7344pt x 549.252pt>
-File: image/danh gia xuc tac/duong chuan.png Graphic file (type png)
-<use image/danh gia xuc tac/duong chuan.png>
-Package pdftex.def Info: image/danh gia xuc tac/duong chuan.png  used on input line 681.
-(pdftex.def)             Requested size: 445.46883pt x 315.81744pt.
- [24]
-<image/chi tiet quy trinh/p&id feeding.png, id=382, 729.927pt x 413.74574pt>
-File: image/chi tiet quy trinh/p&id feeding.png Graphic file (type png)
-<use image/chi tiet quy trinh/p&id feeding.png>
-Package pdftex.def Info: image/chi tiet quy trinh/p&id feeding.png  used on input line 694.
-(pdftex.def)             Requested size: 437.95958pt x 248.24936pt.
- [25 <./image/danh gia xuc tac/duong chuan.png (PNG copy)>] [26 <./image/chi tiet quy trinh/p&id feeding.png>] [27]
-Overfull \hbox (1.05125pt too wide) in paragraph at lines 811--811
- []|[]| 
- []
-
-
-Overfull \hbox (1.05125pt too wide) in paragraph at lines 814--814
- []|[]| 
- []
-
-[28] [29]
-<image/danh gia xuc tac/anh minh hoa XRD.png, id=413, 687.56876pt x 368.37625pt>
+ [13] [14 <./image/tong quan/mo ta qua trinh hap phu.jpg>]
+<image/danh gia xuc tac/anh minh hoa XRD.png, id=276, 687.56876pt x 368.37625pt>
 File: image/danh gia xuc tac/anh minh hoa XRD.png Graphic file (type png)
 <use image/danh gia xuc tac/anh minh hoa XRD.png>
-Package pdftex.def Info: image/danh gia xuc tac/anh minh hoa XRD.png  used on input line 873.
+Package pdftex.def Info: image/danh gia xuc tac/anh minh hoa XRD.png  used on input line 492.
 (pdftex.def)             Requested size: 343.78354pt x 184.18767pt.
- [30 <./image/danh gia xuc tac/anh minh hoa XRD.png (PNG copy)>]
-<image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg, id=418, 1104.125pt x 1103.12125pt>
+ [15]
+<image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg, id=281, 1104.125pt x 1103.12125pt>
 File: image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg Graphic file (type jpg)
 <use image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg>
-Package pdftex.def Info: image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg  used on input line 885.
+Package pdftex.def Info: image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg  used on input line 505.
 (pdftex.def)             Requested size: 276.03058pt x 275.77963pt.
- [31 <./image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg>]
-<image/danh gia xuc tac/TGA_diagram_3.png, id=423, 1002.74625pt x 595.22375pt>
+ [16 <./image/danh gia xuc tac/anh minh hoa XRD.png (PNG copy)>] [17 <./image/danh gia xuc tac/Scanning-Electron-Microscope-SEM.jpeg>]
+<image/danh gia xuc tac/TGA_diagram_3.png, id=290, 1002.74625pt x 595.22375pt>
 File: image/danh gia xuc tac/TGA_diagram_3.png Graphic file (type png)
 <use image/danh gia xuc tac/TGA_diagram_3.png>
-Package pdftex.def Info: image/danh gia xuc tac/TGA_diagram_3.png  used on input line 911.
+Package pdftex.def Info: image/danh gia xuc tac/TGA_diagram_3.png  used on input line 531.
 (pdftex.def)             Requested size: 376.02892pt x 223.20836pt.
- [32 <./image/danh gia xuc tac/TGA_diagram_3.png (PNG copy)>] [33] [34]
-<image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg, id=437, 407.42819pt x 205.65422pt>
+ [18 <./image/danh gia xuc tac/TGA_diagram_3.png (PNG copy)>] [19] [20]
+<image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg, id=304, 407.42819pt x 205.65422pt>
 File: image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg Graphic file (type jpg)
 <use image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg>
-Package pdftex.def Info: image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg  used on input line 967.
+Package pdftex.def Info: image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg  used on input line 588.
 (pdftex.def)             Requested size: 407.4272pt x 205.6537pt.
- [35 <./image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg>] [36] [37]
-<image/ket qua/1_m08.png, id=454, 1284.8pt x 963.6pt>
+ [21 <./image/danh gia xuc tac/quy trinh Atomic absorption spectroscopy.jpg>] [22] [23] [24] [25] [26]
+<image/danh gia xuc tac/duong chuan.png, id=336, 774.7344pt x 549.252pt>
+File: image/danh gia xuc tac/duong chuan.png Graphic file (type png)
+<use image/danh gia xuc tac/duong chuan.png>
+Package pdftex.def Info: image/danh gia xuc tac/duong chuan.png  used on input line 807.
+(pdftex.def)             Requested size: 445.46883pt x 315.81744pt.
+<image/chi tiet quy trinh/p&id feeding.png, id=337, 729.927pt x 413.74574pt>
+File: image/chi tiet quy trinh/p&id feeding.png Graphic file (type png)
+<use image/chi tiet quy trinh/p&id feeding.png>
+Package pdftex.def Info: image/chi tiet quy trinh/p&id feeding.png  used on input line 820.
+(pdftex.def)             Requested size: 437.95958pt x 248.24936pt.
+ [27 <./image/danh gia xuc tac/duong chuan.png (PNG copy)>] [28 <./image/chi tiet quy trinh/p&id feeding.png>] [29]
+Overfull \hbox (1.05125pt too wide) in paragraph at lines 937--937
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.05125pt too wide) in paragraph at lines 940--940
+ []|[]| 
+ []
+
+[30]
+<image/ket qua/1_m08.png, id=365, 1284.8pt x 963.6pt>
 File: image/ket qua/1_m08.png Graphic file (type png)
 <use image/ket qua/1_m08.png>
-Package pdftex.def Info: image/ket qua/1_m08.png  used on input line 1069.
+Package pdftex.def Info: image/ket qua/1_m08.png  used on input line 968.
 (pdftex.def)             Requested size: 160.59961pt x 120.4497pt.
-<image/ket qua/1_m05.png, id=455, 1284.8pt x 963.6pt>
+<image/ket qua/1_m05.png, id=366, 1284.8pt x 963.6pt>
 File: image/ket qua/1_m05.png Graphic file (type png)
 <use image/ket qua/1_m05.png>
-Package pdftex.def Info: image/ket qua/1_m05.png  used on input line 1070.
+Package pdftex.def Info: image/ket qua/1_m05.png  used on input line 969.
 (pdftex.def)             Requested size: 160.59961pt x 120.4497pt.
-<image/ket qua/1_m05_2.png, id=456, 1284.8pt x 963.6pt>
+<image/ket qua/1_m05_2.png, id=367, 1284.8pt x 963.6pt>
 File: image/ket qua/1_m05_2.png Graphic file (type png)
 <use image/ket qua/1_m05_2.png>
-Package pdftex.def Info: image/ket qua/1_m05_2.png  used on input line 1076.
+Package pdftex.def Info: image/ket qua/1_m05_2.png  used on input line 975.
 (pdftex.def)             Requested size: 160.59961pt x 120.4497pt.
-<image/ket qua/1_m04.png, id=457, 1284.8pt x 963.6pt>
+<image/ket qua/1_m04.png, id=368, 1284.8pt x 963.6pt>
 File: image/ket qua/1_m04.png Graphic file (type png)
 <use image/ket qua/1_m04.png>
-Package pdftex.def Info: image/ket qua/1_m04.png  used on input line 1077.
+Package pdftex.def Info: image/ket qua/1_m04.png  used on input line 976.
 (pdftex.def)             Requested size: 160.59961pt x 120.4497pt.
- [38 <./image/ket qua/1_m08.png (PNG copy)> <./image/ket qua/1_m05.png (PNG copy)>]
-<image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg, id=465, 578.16pt x 385.44pt>
+ [31 <./image/ket qua/1_m08.png (PNG copy)> <./image/ket qua/1_m05.png (PNG copy)>]
+<image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg, id=375, 578.16pt x 385.44pt>
 File: image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg Graphic file (type jpg)
 <use image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg>
-Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg  used on input line 1085.
+Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg  used on input line 984.
 (pdftex.def)             Requested size: 346.89867pt x 231.26578pt.
-<image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg, id=466, 578.16pt x 385.44pt>
+<image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg, id=376, 578.16pt x 385.44pt>
 File: image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg Graphic file (type jpg)
 <use image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg>
-Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg  used on input line 1089.
+Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg  used on input line 988.
 (pdftex.def)             Requested size: 346.89867pt x 231.26578pt.
- [39 <./image/ket qua/1_m05_2.png (PNG copy)> <./image/ket qua/1_m04.png (PNG copy)>] [40 <./image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg> <./image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg>]
-<image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg, id=475, 578.16pt x 385.44pt>
+ [32 <./image/ket qua/1_m05_2.png (PNG copy)> <./image/ket qua/1_m04.png (PNG copy)>] [33 <./image/ket qua/size distribution/anh xac dinh tinh chuan phan bo kich thuoc hat.jpg> <./image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat.jpg>]
+<image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg, id=386, 578.16pt x 385.44pt>
 File: image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg Graphic file (type jpg)
 <use image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg>
-Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg  used on input line 1101.
+Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg  used on input line 1000.
 (pdftex.def)             Requested size: 346.89867pt x 231.26578pt.
-<image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg, id=476, 578.16pt x 385.44pt>
+<image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg, id=387, 578.16pt x 385.44pt>
 File: image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg Graphic file (type jpg)
 <use image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg>
-Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg  used on input line 1105.
+Package pdftex.def Info: image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg  used on input line 1004.
 (pdftex.def)             Requested size: 346.89867pt x 231.26578pt.
- [41 <./image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg> <./image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg>]
-<image/danh gia xuc tac/XRD.png, id=483, 774.7344pt x 549.252pt>
+ [34 <./image/ket qua/size distribution/anh xac dinh su phan bo kich thuoc hat theo lognormal.jpg> <./image/ket qua/size distribution/anh xac dinh tinh chuan kich thuoc hat theo lognormal.jpg>]
+<image/danh gia xuc tac/XRD.png, id=394, 774.7344pt x 549.252pt>
 File: image/danh gia xuc tac/XRD.png Graphic file (type png)
 <use image/danh gia xuc tac/XRD.png>
-Package pdftex.def Info: image/danh gia xuc tac/XRD.png  used on input line 1118.
+Package pdftex.def Info: image/danh gia xuc tac/XRD.png  used on input line 1017.
 (pdftex.def)             Requested size: 387.36626pt x 274.62532pt.
- [42 <./image/danh gia xuc tac/XRD.png (PNG copy)>] [43]
-Overfull \hbox (1.81013pt too wide) in paragraph at lines 1156--1156
+ [35 <./image/danh gia xuc tac/XRD.png (PNG copy)>] [36]
+Overfull \hbox (1.81013pt too wide) in paragraph at lines 1055--1055
  []|$\OML/cmm/m/it/12 V[]$| 
  []
 
 
-Overfull \hbox (2.58124pt too wide) in paragraph at lines 1156--1156
+Overfull \hbox (2.58124pt too wide) in paragraph at lines 1055--1055
  []|$\OML/cmm/m/it/12 V[]$| 
  []
 
 
-Overfull \hbox (0.75075pt too wide) in paragraph at lines 1155--1163
+Overfull \hbox (0.75075pt too wide) in paragraph at lines 1054--1062
  [][] 
  []
 
-[44] [45
+[37] [38
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1203.
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1102.
  (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [46
+) [39
 
 
-] [47] [48] [49] (main.aux)
+] [40] [41] [42] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -1178,20 +1143,20 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 582646D5E9F8F6A65C291EC94103EF94;5139.
+(rerunfilecheck)             Checksum: B79CA32DA65CEF1820A0FF4D4A203348;3147.
  ) 
 Here is how much of TeX's memory you used:
- 35542 strings out of 467871
- 821741 string characters out of 5417892
- 1366533 words of memory out of 5000000
- 63677 multiletter control sequences out of 15000+600000
+ 35478 strings out of 467871
+ 819366 string characters out of 5417892
+ 1365533 words of memory out of 5000000
+ 63635 multiletter control sequences out of 15000+600000
  652799 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,18n,107p,1836b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\LENOVO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main.pdf (54 pages, 7011936 bytes).
+Output written on main.pdf (47 pages, 5258826 bytes).
 PDF statistics:
- 683 PDF objects out of 1000 (max. 8388607)
- 155 named destinations out of 1000 (max. 500000)
- 345 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 
